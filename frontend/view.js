@@ -1,3 +1,3 @@
-function a() {
-	log
+function a() { 
+    log
 }
